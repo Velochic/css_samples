@@ -1,4 +1,4 @@
 css_samples
 ===========
 
-My working css, sass and less files
+My working css, sass and less files.
